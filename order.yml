@@ -1,2 +1,8 @@
 order:
-  name: test
+  message: "order test"
+  contactDetails:
+    name: "order name test"
+    email: "order email test"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
