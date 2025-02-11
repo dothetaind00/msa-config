@@ -1,0 +1,8 @@
+order:
+  message: "payment test"
+  contactDetails:
+    name: "payment name test"
+    email: "payment email test"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
