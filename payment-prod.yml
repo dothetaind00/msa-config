@@ -1,4 +1,4 @@
-order:
+payment:
   message: "payment prod test"
   contactDetails:
     name: "payment name prod test"

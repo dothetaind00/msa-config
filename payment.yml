@@ -1,4 +1,4 @@
-order:
+payment:
   message: "payment test"
   contactDetails:
     name: "payment name test"
